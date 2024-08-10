@@ -1,0 +1,202 @@
+body {
+    height: 700px;
+    background-color: #f4f0f0;
+}
+.head{
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.ram_home_page{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #D1E9F6;
+}
+.dhoni_home_page{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+}
+.pra_home_page{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+}
+.virat_home_page{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+.tom_home_page{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+.ram_a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.dhoni_a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.pra_a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.virat_a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.tom_a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.home_page_box{
+    border: 1px solid black;
+    width: 190px;
+    border-radius: 10px;
+}
+#home_image {
+    background-image: url(NATURE.jpg);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.p1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+}
+
+#ram{
+    background-image: url(ram-charan-hd.jpg);
+    opacity: 1.4;
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.ram_para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#04bdd9;
+    font-size: 20px;
+    margin-right: 860px;
+    text-align: justify;
+    margin-left: 20px;
+}
+.ram_name{
+    margin-left:20px ;
+    color:#D1E9F6;
+    font-size: 40px;
+}
+
+#dhoni{
+    background-image: url(dhoni.jpg);
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+.dhoni_name{
+    margin-left: 20px;
+    color: #000;
+    font-size: 40px;
+}
+.dhoni_para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    font-size: 20px;
+    margin-right: 800px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+#pra{
+    background-image: url(prabhas.png);
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pra_name{
+    margin-left: 20px;
+    color: #D1E9F6;
+    font-size: 40px;
+}
+.pra_para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#fff;
+    font-size: 20px;
+    margin-right: 880px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+#virat{
+    background-image: url(virat.png);
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.virat_name{
+    margin-left: 20px;
+    color: #D1E9F6;
+    font-size: 40px;
+}
+.virat_para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#fff;
+    font-size: 20px;
+    margin-right: 800px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+#tom{
+    background-image: url(tom.png);
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tom_name{
+    margin-left: 20px;
+    
+    color: #000;
+    font-size: 40px;
+}
+.tom_para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#583c3c;
+    font-size: 20px;
+    margin-right: 850px;
+    text-align: justify;
+    margin-left: 20px;
+}
